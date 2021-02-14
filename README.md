@@ -1,4 +1,4 @@
-# Time_Series_Analysis (Stock pric forcasting)
+# Time_Series_Analysis (Stock pric forecasting)
 Stock price forecasting is important in finance and economics, but it has been regarded as one of the most challenging applications.
 
 Three different methods were implemented to predict the stock price using Microsoft historical stock price. 
